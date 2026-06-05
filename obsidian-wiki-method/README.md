@@ -1,6 +1,6 @@
 # Obsidian 知识库整理方法（LLM Wiki 标准）
 
-> 作者：方向东 · 建立日期：2026-06-06  
+> 作者：hongqilu · 建立日期：2026-06-06  
 > 参考架构：[Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9Billboard/442a6bf555914893e9f)  
 > 适用工具：Claude Code（claude.ai/code）+ Obsidian
 
@@ -197,7 +197,7 @@ git push
 
 ## 参考案例
 
-**obsidian-设计**（天津城建大学·方向东，2026-06-06）
+**obsidian-设计**（2026-06-06）
 
 | 项目 | 内容 |
 |------|------|
