@@ -1,0 +1,12 @@
+﻿# Obsidian 配置目录（本机专用，不上传）
+.obsidian/
+
+# Obsidian 回收站
+.trash/
+
+# macOS 残留文件
+.DS_Store
+._*
+
+# Windows 残留
+Thumbs.db
